@@ -1,5 +1,5 @@
 package gosayhello
 
 func hello()string{
-	return "Hello from package say  hello"
+	return "Hello from tag 1.5"
 }
