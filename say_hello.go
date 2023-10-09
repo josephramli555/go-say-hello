@@ -1,5 +1,5 @@
 package gosayhello
 
-func hello()string{
+func Hello()string{
 	return "Hello from tag 1.5"
 }
